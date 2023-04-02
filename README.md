@@ -1,6 +1,8 @@
 # DR-Lyapunov-Function-Search
 This repo contains implementations for the paper: "Distributionally Robust Lyapunov Function Search Under Uncertainty"
 
+Please check out the paper here: https://arxiv.org/pdf/2212.01554.pdf
+
 ## Method
 
 
