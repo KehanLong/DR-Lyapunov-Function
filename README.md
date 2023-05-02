@@ -1,10 +1,12 @@
 # DR-Lyapunov-Function-Search
 This repo contains implementations for the paper: "Distributionally Robust Lyapunov Function Search Under Uncertainty"
 
-Please check out the paper here: https://arxiv.org/pdf/2212.01554.pdf
+You can find the paper here: https://arxiv.org/pdf/2212.01554.pdf
 
-## Method
-The sum-of-squares (SOS)-based formulations are implemented in Matlab. The nerual network based formulations are provided in the two notebook files.  
+## Instructions
+In this work, we compare six different formulations in searching a Lyapunov function for uncertain dynamical systems. These formulations include Baseline sum-of-squares (SOS), chance-constrained (CC) SOS, distributionally robust chance-constrained (DRCC) SOS, baseline neural network (NN), CC-NN, and DRCC-NN.
+
+The sum-of-squares (SOS)-based formulations are implemented using Matlab, while the neural network-based formulations can be found in the provided Jupyter notebook files.
 
 ## Citation
 
@@ -21,7 +23,6 @@ If you found our method or code useful in your research, please consider citing 
 }
 ```
 
-## Instructions
 
 ## License & Acknowledgements
 
