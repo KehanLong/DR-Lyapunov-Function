@@ -8,6 +8,8 @@ In this work, we compare six different formulations in searching a Lyapunov func
 
 The sum-of-squares (SOS)-based formulations are implemented using Matlab, while the neural network-based formulations can be found in the provided Jupyter notebook files.
 
+The folder "L4DC_saved_models" contains the pre-trained network model parameters for the simulation examples. The folder "Uncertainty_Info" contains the offline uncertainty samples used in training the CC-NN and DRCC-NN formulation.
+
 ## Citation
 
 If you found our method or code useful in your research, please consider citing the paper as follows:
