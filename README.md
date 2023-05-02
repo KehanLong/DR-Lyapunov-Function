@@ -4,7 +4,7 @@ This repo contains implementations for the paper: "Distributionally Robust Lyapu
 Please check out the paper here: https://arxiv.org/pdf/2212.01554.pdf
 
 ## Method
-
+The sum-of-squares (SOS)-based formulations are implemented in Matlab. The nerual network based formulations are provided in the two notebook files.  
 
 ## Citation
 
