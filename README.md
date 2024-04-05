@@ -15,13 +15,13 @@ The folder "L4DC_saved_models" contains the pre-trained network model parameters
 If you found our method or code useful in your research, please consider citing the paper as follows:
 
 ```
-@misc{long2022distributionally,
-      title={Distributionally Robust Lyapunov Function Search Under Uncertainty}, 
-      author={Kehan Long and Yinzhuang Yi and Jorge Cortes and Nikolay Atanasov},
-      year={2022},
-      eprint={2212.01554},
-      archivePrefix={arXiv},
-      primaryClass={math.OC}
+@inproceedings{long2023dro_lf,
+  title={Distributionally Robust {L}yapunov Function Search Under Uncertainty},
+  author={Long, Kehan and Yi, Yinzhuang and Cortes, Jorge and Atanasov, Nikolay},
+  booktitle={Learning for Dynamics and Control Conference},
+  pages={864--877},
+  year={2023},
+  organization={PMLR}
 }
 ```
 
